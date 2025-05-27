@@ -19,9 +19,9 @@ ___
 
 <br />
 
-| Too-short                          | Weak                     | Moderate                         |Strong                       |Very-Strong                          | 
-|------------------------------------|--------------------------|----------------------------------------------------------------|-------------------------------------|
-| ![Too-short](assets/too-short.png) | ![Weak](assets/Weak.png) | ![Moderate](assets/Moderate.png) | ![Strong](assets/Strong.png)|![Very Stong](assets/Very-Strong.png)|
+| Too-short                   | Weak              | Moderate                  |Strong                       |Very-Strong                    | 
+|-----------------------------|-------------------|---------------------------|-----------------------------|-------------------------------|
+| ![Too-short](too-short.png) | ![Weak](Weak.png) | ![Moderate](Moderate.png) | ![Strong](Strong.png)       | ![Very Stong](Very-Strong.png)|
 
 <br/>
 
@@ -31,8 +31,6 @@ passSniff/
 ├── index.html # Core HTML UI
 ├── styles.css # Styling, including strength meter color classes
 ├── script.js # Main JavaScript logic
-├── assets/
-│ └── screenshot.png # Optional image for README/demo
 └── README.md # You're reading it!
 
 ---
