@@ -25,16 +25,6 @@ ___
 
 <br/>
 
-## 🏗️ Project Structure
-
-passSniff/
-├── index.html # Core HTML UI
-├── styles.css # Styling, including strength meter color classes
-├── script.js # Main JavaScript logic
-└── README.md # You're reading it!
-
----
-
 ## 🛡️Privacy & Security
 - ✅Passwords are hashed in-browswer with SHA-1 (per HIBP API requirements)
 - 🔐Nothing is logged or stored - everthing stays client-side
